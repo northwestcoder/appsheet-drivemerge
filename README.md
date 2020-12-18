@@ -27,7 +27,7 @@ aka a "Documentation Request App"
 
 ![02.png](media/02.png)
 
-#### 4. Once Apps Script launches, paste in the entire contents of [getdocnamefromid.gs](https://raw.githubusercontent.com/northwestcoder/appsheet-drivemerge/main/getdocnamefromid.gs) in this github project. Rename your project to any name you want. We named ours 'GetDocNameFromID'. Click the save icon.
+#### 4. Once Apps Script launches, paste in the entire contents of [getdocnamefromid.gs](https://raw.githubusercontent.com/northwestcoder/appsheet-drivemerge/main/getdocnamefromid.gs) (from this github project). Rename your project to any name you want. We named ours 'GetDocNameFromID'. Click the save icon.
 
 ![03.png](media/03.png)
 
@@ -42,7 +42,7 @@ aka a "Documentation Request App"
 ![addtrigger](media/addtrigger.png)
 
 
-#### 7. And make the screen look exactly like this (except for the name which can be anything you want).
+#### 7. And make the screen look exactly like this (except for the name which again can be anything you want).
 
 ![05.png](media/05.png)
 
@@ -53,7 +53,7 @@ aka a "Documentation Request App"
 
 ![06.png](media/06.png)
 
-#### 10. Like we did above, in the sheet, go to the Extensions menu and choose Apps Script. Now we are going to create *four files and then paste in the four remaining files in this git project*:
+#### 10. Like we did above, in the sheet, go to the Tools menu and choose Script Editor. Now we are going to create *four files and then paste in the four remaining files in this git project*:
 
 - [columndictionary.gs](https://raw.githubusercontent.com/northwestcoder/appsheet-drivemerge/main/columndictionary.gs)
 - [email.gs](https://raw.githubusercontent.com/northwestcoder/appsheet-drivemerge/main/email.gs)
