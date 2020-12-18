@@ -1,6 +1,6 @@
-# AppsScript-MailMerge
+# appsheet-drivemerge
 
-aka "Documentation Request App"
+aka a "Documentation Request App"
 
 ## Overview
 
