@@ -27,7 +27,7 @@ aka a "Documentation Request App"
 
 ![02.png](media/02.png)
 
-#### 4. Once Apps Script launches, paste in the entire contents of [getdocnamefromid.gs](https://raw.githubusercontent.com/northwestcoder/AppsScript-MailMerge/main/getdocnamefromid.gs) in this github project. Rename your project to any name you want. We named ours 'GetDocNameFromID'. Click the save icon.
+#### 4. Once Apps Script launches, paste in the entire contents of [getdocnamefromid.gs](https://raw.githubusercontent.com/northwestcoder/appsheet-drivemerge/main/getdocnamefromid.gs) in this github project. Rename your project to any name you want. We named ours 'GetDocNameFromID'. Click the save icon.
 
 ![03.png](media/03.png)
 
@@ -55,10 +55,10 @@ aka a "Documentation Request App"
 
 #### 10. Like we did above, in the sheet, go to the Extensions menu and choose Apps Script. Now we are going to create *four files and then paste in the four remaining files in this git project*:
 
-- [columndictionary.gs](https://raw.githubusercontent.com/northwestcoder/AppsScript-MailMerge/main/columndictionary.gs)
-- [email.gs](https://raw.githubusercontent.com/northwestcoder/AppsScript-MailMerge/main/email.gs)
-- [main.gs](https://raw.githubusercontent.com/northwestcoder/AppsScript-MailMerge/main/main.gs)
-- [parser.gs](https://raw.githubusercontent.com/northwestcoder/AppsScript-MailMerge/main/parser.gs)
+- [columndictionary.gs](https://raw.githubusercontent.com/northwestcoder/appsheet-drivemerge/main/columndictionary.gs)
+- [email.gs](https://raw.githubusercontent.com/northwestcoder/appsheet-drivemerge/main/email.gs)
+- [main.gs](https://raw.githubusercontent.com/northwestcoder/appsheet-drivemerge/main/main.gs)
+- [parser.gs](https://raw.githubusercontent.com/northwestcoder/appsheet-drivemerge/main/parser.gs)
 
 #### 11. It turns out that Apps Script does not have strict approach to where your code should live, but we usually create multiple files whose purpose is modular - keep your room clean right? Basically, make your project look like the following; we called our project "Send Docs".
 
@@ -83,11 +83,11 @@ ___
 
 #### When you first log into the app, click Start. you will then be prompted to create a new user record. This adds a new record to the Google Sheet named 'Globals'.
 
-<img src="https://github.com/northwestcoder/AppsScript-MailMerge/blob/main/media/08.png" alt="08" width="200">
+<img src="https://github.com/northwestcoder/appsheet-drivemerge/blob/main/media/08.png" alt="08" width="200">
 
 #### Once you have done so, you can create A) Documents, B) Links, and C) Email Templates of documents and links. We have created a first Email Template to get you started as well as one placeholder Google Doc and three Links. 
 
-<img src="https://github.com/northwestcoder/AppsScript-MailMerge/blob/main/media/09.png" alt="09" width="200">
+<img src="https://github.com/northwestcoder/appsheet-drivemerge/blob/main/media/09.png" alt="09" width="200">
 
 #### You can now add documents to your Document Library as well as links to your Link Library.
 
