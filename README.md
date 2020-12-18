@@ -23,7 +23,7 @@ aka a "Documentation Request App"
 ![01.png](media/01.png)
 
 
-#### 3. Now in Google Sheets, go to the Extensions menu and choose Apps Script.
+#### 3. Now in Google Sheets, go to the Tools menu and choose Script Editor.
 
 ![02.png](media/02.png)
 
