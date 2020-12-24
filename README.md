@@ -70,7 +70,7 @@ Note: This is not an official Google product and is provided for educational pur
 #### As long as all the code is in there and we have a file with our entry function `function main(e) {}` and then we specify this function in our trigger (next), it doesn't really matter how you organize your code/functions in Apps Script :) 
 
 
-#### 12. Like we did above, set up a trigger for this second Apps Script project by clicking on the clock icon. Use the same settings as we used the first time:
+#### 12. Once you have created the files, save your changes! Like we did before, we need to set up a trigger for this second Apps Script project by clicking on the clock icon. Use the same settings as we used the first time:
 
 ![addsecondtrigger](media/addsecondtrigger.png)
 
