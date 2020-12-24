@@ -2,6 +2,8 @@
 
 aka a "Documentation Request App"
 
+Note: This is not an official Google product and is provided for educational purposes only.
+
 ## Overview
 
 - This Appsheet app and Apps Script solution lets your team manage a curated list of content from Google Drive, and then email PDFs of that content nicely packaged up for your audience. "Audience" could mean:
