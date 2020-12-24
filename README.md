@@ -78,9 +78,9 @@ Note: This is not an official Google product and is provided for educational pur
 ___
 
 
-#### What you have just done above is create two script solutions that listen for data changes on Google Sheets. The first script listens for new Documents added to the document list (the Google Sheet "Documents") and verifies the document info. The second script listens for changes to Email Templates (the Google Sheet "Requests") and sends an email when certain conditions are met.
+What you have just done above is create two script solutions that listen for data changes on Google Sheets. The first script listens for new Documents added to the document list (the Google Sheet "Documents") and verifies the document info. The second script listens for changes to Email Templates (the Google Sheet "Requests") and sends an email when certain conditions are met.
 
-#### Now let's go back to Appsheet. We're ready to test.
+Now let's go back to Appsheet. We're ready to test.
 
 
 #### When you first log into the app, click Start. you will then be prompted to create a new user record. This adds a new record to the Google Sheet named 'Globals'.
