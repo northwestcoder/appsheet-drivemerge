@@ -17,7 +17,7 @@ Note: This is not an official Google product and is provided for educational pur
 ## High level steps
 
 
-#### 1. Copy [this](https://www.appsheet.com/samples/A-Google-Drive-to-Email-application?appGuidString=ea7a1261-a798-4b80-bf16-5a8228266af7) Appsheet app to your gsuite account.
+#### 1. Copy [this](https://www.appsheet.com/samples/A-Google-Drive-to-Email-application?appGuidString=d03ddbdc-cec5-4f31-be0c-32dae49741cb) Appsheet app to your gsuite account.
 
 
 #### 2. Once copied, open Document sheets source.
